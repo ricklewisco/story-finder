@@ -30,6 +30,7 @@
     "remark-breaks": "^4.0.0",
     "remark-gfm": "^4.0.1",
     "uuid": "^11.1.0"
+    "@vercel/analytics": "
   },
   "devDependencies": {
     "@types/js-cookie": "^3.0.6",
